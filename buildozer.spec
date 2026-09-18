@@ -1,6 +1,7 @@
 [app]
 
 title = Zotero Citation Manager
+version = 1.0
 package.name = zoterocitationmanager
 package.domain = org.avinash
 source.dir = .
