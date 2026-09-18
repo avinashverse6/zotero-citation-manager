@@ -8,7 +8,7 @@ source.dir = .
 source.include_exts = py
 requirements = python3,kivy,requests
 orientation = portrait
-
+android.accept_sdk_license = True
 [buildozer]
 
 [buildozer:android]
