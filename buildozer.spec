@@ -15,4 +15,4 @@ android.accept_sdk_license = True
 
 android.api = 35
 android.minapi = 23
-p4a.branch = develop
+p4a.branch = master
